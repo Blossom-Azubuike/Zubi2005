@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zubi2005
+- 👋 Hi, I’m Blossom Azubuike Chinemerem
 - 👀 I’m interested in hacking
 - 🌱 I’m currently learning Python programming and ethical hacking
 - 💞️ I’m looking to collaborate on coding
